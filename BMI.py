@@ -8,7 +8,7 @@ user_name = (input("What is your name? "))
 
 Username = name(user_name)
 
-print("Hello,", Username,".......Welcome to a BMI calculator creaeted using python")
+print("Hello,", Username,".......Welcome to a BMI calculator created using python")
 
 #first we need to add a define function 
 #(height) and (weight) are called parameters in the function
