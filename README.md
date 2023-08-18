@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @PatLearnsToCode
-- 👀 I’m interested in art, sports, and graphic design
-- 🌱 I’m currently a computer science student at FEU Tech
+👋 Hi, this is @PatLearnsToCode, My actual name is Pat
+- Just started my Journey as a Computer Science student and this repository is used for creating my inital projects during my college Years
+   
 
 
 <!---
