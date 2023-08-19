@@ -27,7 +27,7 @@ bmi = bodymassindex(w,h)
 print('Your BMI is:', bmi)
 
 #we'll use the conditions 
-if bmi <= 18.5:
+if bmi < 18.5:
     print("You're underweight,", Username)
 elif 18.6 < bmi < 24.99:
     print("You're Normal,", Username)
